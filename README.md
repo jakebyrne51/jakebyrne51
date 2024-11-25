@@ -1,4 +1,4 @@
-**👋 Hi there! I'm Jake Byrne**
+**👋 Hey there! I'm Jake Byrne**
 
 I'm a passionate Computer Science undergraduate at The Pennsylvania State University, with a Minor in Mathematics. My interests span across software development and building data-driven solution. 
 
